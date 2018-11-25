@@ -1,6 +1,6 @@
-.card{
+.caca{
   position: absolute;
-  background: #C4C4C4;
+  background-color: rgb(151, 147, 147);
   width: 689px;
   height: 293px;
   left: 30px;
@@ -9,8 +9,21 @@
 
 .foto{
   position: absolute;
-  width: 220px;
-  height: 238px;
+  width: 240px;
+  height: 237px;
   left: 308px;
   top: 40px;
+
+
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.txt{
+
+  color: #ed7207;
+  font-family: Patua One;
+  font-style: normal;
+  font-weight: bolder;
+  line-height: bolder;
+  font-size: 30px;
 }
