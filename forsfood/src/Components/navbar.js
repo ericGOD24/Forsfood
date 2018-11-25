@@ -12,14 +12,14 @@ class Navbar extends Component {
                             <div class="row">
                                 <div class="input-field col s10">
                                 <input id="first_name2" type="text" class="validate"/>
-                                <label class="active " for="first_name2">Login</label>
+                                <label class="active" for="first_name2">Login</label>
                                 </div>
                             </div>
                         </li>
                         <li>
                             <div class="row">
                                 <div class="input-field col s10">
-                                <input id="first_name2" type="text" class="validate"/>
+                                <input id="password" type="password" class="validate"/>
                                 <label class="active" for="first_name2">Senha</label>
                                 </div>
                             </div>
