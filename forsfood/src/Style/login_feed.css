@@ -1,0 +1,16 @@
+.card{
+  position: absolute;
+  background: #C4C4C4;
+  width: 689px;
+  height: 293px;
+  left: 30px;
+  top: 17px; 
+}
+
+.foto{
+  position: absolute;
+  width: 220px;
+  height: 238px;
+  left: 308px;
+  top: 40px;
+}
