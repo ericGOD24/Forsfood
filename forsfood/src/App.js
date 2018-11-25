@@ -1,9 +1,8 @@
 import React, { Component } from 'react';
-import Navbar from './Components/navbar'
-import logo from './logo.svg';
+import Navbar from './Components/navbar';
 import './App.css';
 
-import 'materialize-css/dist/css/materialize.min.css'
+import 'materialize-css/dist/css/materialize.min.css';
 
 class App extends Component {
   render() {
