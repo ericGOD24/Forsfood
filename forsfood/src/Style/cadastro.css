@@ -1,0 +1,17 @@
+.cadastro{
+ position: absolute;
+  width: 451px;
+  height: 57px;
+  left: 821px;
+  top: 100px;
+
+  font-family: Podkova;
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 48px;
+
+  color: #000000;
+
+  mix-blend-mode: normal;
+}
