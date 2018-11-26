@@ -23,5 +23,15 @@
 }
 
 .txt{
-    color: #000000;
+    color: #FFFFFF;
+    font-size: 15px
 }
+
+.option2{
+    color: #000000;
+    font-family: Patua One;
+    font-style: normal;
+    font-weight: bolder;
+    line-height: bolder;
+    font-size: 15px;
+  }

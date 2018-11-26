@@ -1,9 +1,9 @@
 .cadastro{
  position: absolute;
-  width: 451px;
+  width: 400px;
   height: 57px;
   left: 821px;
-  top: 100px;
+  top: 28px;
 
   font-family: Podkova;
   font-style: normal;
@@ -14,4 +14,35 @@
   color: #000000;
 
   mix-blend-mode: normal;
+}
+
+.txt{
+  vertical-align: bottom;
+  font-family: Patua One;
+  font-style: normal;
+  font-weight: bolder;
+  line-height: bolder;
+  font-size: 13px;
+}
+
+.option{
+  color: #000000;
+  font-family: Patua One;
+  font-style: normal;
+  font-weight: bolder;
+  line-height: bolder;
+  font-size: 15px;
+}
+
+.espaco{
+  height: 100px;
+}
+.cadas{
+  color: #000000;
+  font-family: Patua One;
+  font-style: normal;
+  font-weight: bolder;
+  line-height: bolder;
+  font-size: 65px;
+  height: 490px;
 }

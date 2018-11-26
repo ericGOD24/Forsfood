@@ -4,30 +4,32 @@ import '../Style/cadastro.css';
 class Cadastro extends Component {
   render() {
     return (
-      <div class="row col6 s6 l6">
+      <div class="row">
         <div class="cadastro input-field">
-          <h2>CADASTRE-SE</h2>
-          <div>
-            <label class="active" for="first_name2"><h5>E-mail</h5></label>
-            <input id="first-name" type="text" class="validate" />
+          <h3>CADASTRE-SE:</h3>
+          <div class = "espaco"> 
+            <label class="active txt" for="first_name2">E-mail</label>
+            <input id="first-name incoco" type="text" class="validate"/>
           </div>
-          <div>
-            <label class="active" for="first_name2"><h5>Senha</h5></label>
-            <input id="first-name" type="text" class="validate" />
+          <div class = "espaco">
+            <label class="active txt" for="first_name2">Senha</label>
+            <input id="password" type="password" class="validate"/>
           </div>
-          <div>
-            <label class="active" for="first_name2"><h5>Confirmar senha</h5></label>
-            <input id="first-name" type="text" class="validate" />
+          <div class = "espaco">
+            <label class="active txt" for="first_name2">Confirmar Senha</label>
+            <input id="password" type="password" class="validate"/>
           </div>
-          <div>
-            <label><h5>Você é um:</h5></label>
-            <select class="browser-default" disabled>
+          <div class = "espaco">
+            <label class ="txt">Você é um:</label>
+            <select class="browser-default option" able>
               <option value="" disabled selected></option>
               <option value="1">Competidor</option>
               <option value="2">Promotor</option>
               <option value="3">Fã</option>
             </select>
-
+          </div>
+          <div>
+            <a href ="/home" class="waves-effect waves-light btn grey">Cadastrar</a>
           </div>
         </div>
       </div>

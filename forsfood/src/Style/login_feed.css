@@ -19,11 +19,16 @@
 }
 
 .txt{
-
-  color: #ed7207;
+ color: #ed7207;
   font-family: Patua One;
   font-style: normal;
   font-weight: bolder;
   line-height: bolder;
   font-size: 30px;
+  height: 3px;
 }
+
+.incoco{
+  height: 10px;
+}
+ 
