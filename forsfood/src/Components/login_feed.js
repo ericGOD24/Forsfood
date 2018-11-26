@@ -8,7 +8,7 @@ class Login_feed extends Component {
       <div class="col s12 m7">
         <div class="card horizontal caca">
           <div class="card-image">
-            <img className="foto" src={require('../img/burgao.jpeg')} alt="Foto Burgao"/>
+            <img className="foto2" src={require('../img/burgao.jpeg')} alt="Foto Burgao"/>
           </div>
           <div class="card-stacked">
             <div class="card-content spc">
@@ -43,7 +43,7 @@ class Login_feed extends Component {
 
         <div class="card horizontal caca">
           <div class="card-image">
-            <img className="foto" src={require('../img/vermonster.jpg')} alt="Foto Vermonster"/>
+            <img className="foto2" src={require('../img/vermonster.jpg')} alt="Foto Vermonster"/>
           </div>
           <div class="card-stacked">
             <div class="card-content spc">

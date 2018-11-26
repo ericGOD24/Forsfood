@@ -7,6 +7,7 @@ import Cadastro from './Components/cadastro';
 import {BrowserRouter as Router} from 'react-router-dom'
 import Route from 'react-router-dom/Route';
 import Navhome from './Components/navhome';
+import Miniperfil from './Components/miniperfil';
 
 class App extends Component {
   render() {
@@ -29,6 +30,7 @@ class App extends Component {
             return (
             <div>
               <Navhome/>
+              <Miniperfil/>
             </div>
             )
             }

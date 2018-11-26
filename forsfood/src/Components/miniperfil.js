@@ -1,14 +1,16 @@
 import React, { Component } from 'react';
-import '../Style/navbar.css';
+import '../Style/miniperfil.css';
 
-class Navbar extends Component {
+class Miniperfil extends Component {
     render() {
         return(
-            <div>
-                
+            <div class="row perfilpequeno">
+                <div class="col s12 m6">
+                    <h2>algo</h2>
+                </div>
             </div>
         )
     }
 }
 
-export default Navbar
+export default Miniperfil
