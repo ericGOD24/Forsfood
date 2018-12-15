@@ -16,7 +16,7 @@ class Login_feed extends Component {
               <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
               <p>
                 <i class="tiny material-icons">home</i>
-                 restaurante: Medieval Lanches
+                 restaurante: Medieval Lanche
               </p>
               <p>
                 <i class="tiny material-icons">location_on</i>
@@ -50,19 +50,19 @@ class Login_feed extends Component {
               <h4 class = "txt">Desafio Vermonster</h4>
               <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
               <p>
-                <i class="tiny material-icons">home</i>
+                <i class="tiny material-icons">Home</i>
                 restaurante: Ben & Jerry's
               </p>
               <p>
-                <i class="tiny material-icons">location_on</i>
+                <i class="tiny material-icons">Location_on</i>
                 Localização: Park Shopping
               </p>
               <p>
-                <i class="tiny material-icons">access_alarm</i>
+                <i class="tiny material-icons">Access_alarm</i>
                 tempo: 5 minutos (limite)
               </p>
               <p>
-                <i class="tiny material-icons">room_service</i>
+                <i class="tiny material-icons">Room_service</i>
                 Peso: 900 Kg
               </p>
               <p>
